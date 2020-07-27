@@ -4,4 +4,5 @@ WORKDIR /app
 
 RUN npm install -g \
 	uuid \
-	http-server
+	http-server \
+	newman
